@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "ism": "Saidnurmuhammadulloxon",
+        "familiya": "Nasimxonov",
+        "yosh": 2625
+    },
+    {
+        "id": 2,
+        "ism": "Izzatullo",
+        "familiya": "Abdug'aniyev",
+        "yosh": 243
+    },
+    {
+        "id": 3,
+        "ism": "Dilshod",
+        "familiya": "Rahimov",
+        "yosh": 27
+    },
+    {
+        "id": 4,
+        "ism": "Olim",
+        "familiya": "Xolmatov",
+        "yosh": 22
+    },
+    {
+        "id": 5,
+        "ism": "Malika",
+        "familiya": "Rasulova",
+        "yosh": 30
+    },
+    {
+        "id": 6,
+        "ism": "Akmal",
+        "familiya": "Matkarimov",
+        "yosh": 28
+    },
+    {
+        "id": 7,
+        "ism": "Saida",
+        "familiya": "Yusufova",
+        "yosh": 26
+    },
+    {
+        "id": 8,
+        "ism": "Jamshid",
+        "familiya": "Norboyev",
+        "yosh": 24
+    },
+    {
+        "id": 9,
+        "ism": "Otabek",
+        "familiya": "Yuldashev",
+        "yosh": 29
+    },
+    {
+        "id": 10,
+        "ism": "Nodira",
+        "familiya": "Abdullayeva",
+        "yosh": 21
+    }
+]
